@@ -1,0 +1,2 @@
+This is my second repository which is created on the git hub 
+having isssues with creating a SSH key and link to my git bash 
